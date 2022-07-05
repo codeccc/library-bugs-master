@@ -4,6 +4,5 @@
 
 
 ## FastJSON
-
-fastjson的序列化问题  [fastjson的序列化问题]: (https://github.com/codeccc/library-bugs-master/tree/main/fastjson/KotlinBugTest/README.md "FastJSON问题")	
+[fastjson的序列化问题](fastjson/KotlinBugTest/README.md)	
 
